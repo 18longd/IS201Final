@@ -34,8 +34,17 @@ p{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
 }
 
 .center{
     text-align: center;
+}
+
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 100%;
 }
