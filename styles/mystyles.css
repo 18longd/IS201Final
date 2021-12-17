@@ -1,0 +1,41 @@
+h3{
+    font-family: DM-Serif;
+    color: black;
+    font-weight:normal;
+}
+
+a{
+    color: cornflowerblue;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+p{
+    font-weight: inherit;
+}
+
+.box1{
+    border: solid 1px lightgray;
+    padding: 16px;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    text-align: center;
+}
